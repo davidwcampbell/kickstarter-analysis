@@ -5,7 +5,7 @@ Initially we discovered that crowdfunding campaigns for theater were generally s
 ![Parent Category Outcomes.png](https://github.com/davidwcampbell/kickstarter-analysis/blob/master/Parent%20Category%20Outcomes.png)
 
 Similiarly, Kickstarter campaigns for plays have a high rate of success with 238 of 314 being successful as shown in this graph.
-
+![Outcomes Based on Launch Date.png](https://github.com/davidwcampbell/kickstarter-analysis/blob/master/Outcomes%20Based%20on%20Launch%20Date.png)
 It also appears that May is the best time for having a successful campaign.
 
 As for Louise's interest in producing a future musical in Great Britian, she should try one that can be produced for less than 4,000.
