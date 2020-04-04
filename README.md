@@ -2,6 +2,7 @@
 This analysis of kickstarter campaigns is designed for Louise to determine the best way to crowdfund her play with a budget of $10,000. We will compare thousands of campaigns to help Louise design a campaign that will succeed.
 
 Initially we discovered that crowdfunding campaigns for theater were generally successful.  Out of 912 total campaigns, 525 were successful as shown in the following graph.
+![Parent Category Outcomes.png](https://github.com/davidwcampbell/kickstarter-analysis/blob/master/Parent%20Category%20Outcomes.png)
 
 Similiarly, Kickstarter campaigns for plays have a high rate of success with 238 of 314 being successful as shown in this graph.
 
