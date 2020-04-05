@@ -15,5 +15,10 @@ As for Louise's interest in producing a future musical in Great Britian, she sho
 ### Challenge
 Continuing this analysis for Louise, we wanted to see how many other Kickstarter campaigns did well and to determine if length of campaign affected the success or failure.  We completed two analyses, one looking at the outcomes based on goal and the other examining outcomes based on launch date.
 
-The Outcomes Based on Goal showed that campaigns with goals less than $5,000 were the most successful.  Campaigns with goals from $5,000 to $45,000 performed well with a 40-50% success rate and campaigns $45,000 and greater did not perform as well (<30% success rate).
+The Outcomes Based on Goal showed that campaigns with goals less than $5,000 were the most successful.  Campaigns with goals from $5,000 to $45,000 performed well with a 40-50% success rate and campaigns $45,000 and greater did not perform as well (<30% success rate). The following graph illustrates these results.
+
+![Mod 1 Challenge-Outcomes Based on Goal.png](https://github.com/davidwcampbell/kickstarter-analysis/blob/master/Mod%201%20Challenge%20-%20Outcomes%20Based%20on%20Goal.png)
+
+The second analysis we completed in this challenge was Outcomes Based on Launch Date.  This graph shows that theater Kickstarter campaigns are generally successful (60% success rate).  It also indicates that May, June, and July are the months that these campaigns performed best.
+
 
