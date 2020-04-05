@@ -5,11 +5,13 @@ Initially we discovered that crowdfunding campaigns for theater were generally s
 
 ![Parent Category Outcomes.png](https://github.com/davidwcampbell/kickstarter-analysis/blob/master/Parent%20Category%20Outcomes.png)
 
-Similiarly, Kickstarter campaigns for plays have a high rate of success with 238 of 314 being successful (76%) as shown in this graph. It also appears that May is the best time for having a successful campaign.
+Similiarly, Kickstarter campaigns for plays have a high rate of success with 238 of 314 being successful (76%). 
+
+It also appears that May is the best time for having a successful campaign.
 
 ![Outcomes Based on Launch Date.png](https://github.com/davidwcampbell/kickstarter-analysis/blob/master/Outcomes%20Based%20on%20Launch%20Date.png)
 
-As for Louise's interest in producing a future musical in Great Britian, she should try one that can be produced for less than 4,000.
+As for Louise's interest in producing a future musical in Great Britian, she should try one that can be produced for less than 4,000. In an analysis of 5 plays produced in Edinburgh, we discovered that 4,137 was the largest pledged amount.
  
 
 ### Challenge
@@ -19,6 +21,14 @@ The Outcomes Based on Goal showed that campaigns with goals less than $5,000 wer
 
 ![Mod 1 Challenge-Outcomes Based on Goal.png](https://github.com/davidwcampbell/kickstarter-analysis/blob/master/Mod%201%20Challenge%20-%20Outcomes%20Based%20on%20Goal.png)
 
-The second analysis we completed in this challenge was Outcomes Based on Launch Date.  This graph shows that theater Kickstarter campaigns are generally successful (60% success rate).  It also indicates that May, June, and July are the months that these campaigns performed best.
+The second analysis we completed in this challenge was Outcomes Based on Launch Date.  This graph shows that theater Kickstarter campaigns are generally successful (60% success rate).  It also indicates that campaigns starting in May, June, and July are the most successful.
 
+![Mod 1 Challenge-Outcomes Based on Launch Date.png](https://github.com/davidwcampbell/kickstarter-analysis/blob/master/Mod%201%20Challenge%20-%20Outcomes%20Based%20on%20Launch%20Date.png)
 
+As a summary, we learned that:
+* Kickstarter campaigns with goals less than $5,000 perform best.
+* Kickstarter campaigns with goals greater than $45,000 perform poorly.
+* Theater Kickstarter campaigns are generally successful (60%).
+* May, June, and July are the best months to have a Kickstarter campaign.
+
+One question that we did not answer was what impact does the length of campaign have on success. We could easily calculate and present this additional analysis from the data we have. Some limitations to our data include; details on how the campaign was executed (online, in-person, etc.), demographic data on the people donating (income, age, etc.), and additional details on location of the donor (urban, rural, etc.).
